@@ -1,0 +1,14 @@
+Customer_Name		Items		Price
+Alice		Apples		5.00 
+Bob		Bananas		1.50 
+Charlie		Oranges		4.80 
+Alice		Bananas		0.60 
+Bob		Apples		2.00 
+Charlie		Grapes		3.00 
+David		Oranges		6.00 
+Eve		Bananas		3.60 
+David		Apples		3.00 
+Eve		Grapes		5.00 
+
+
+		Total Bill Is :34.50
